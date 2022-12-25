@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FashionMNIST</string>
+    <string name="welcome_to_fashion_mnist_app">Welcome to Fashion MNIST App</string>
+</resources>
