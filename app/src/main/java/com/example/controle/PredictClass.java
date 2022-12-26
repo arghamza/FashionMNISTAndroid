@@ -55,6 +55,6 @@ public class PredictClass {
             ByteBuffer processedInput=grayProcessor.process(imageProcessor.process(input)).getBuffer();
             // Runs model inference and gets result.
             interpreter.run(processedInput,outputs);
-            return "tshirt";
+            return "null";
     }
 }
